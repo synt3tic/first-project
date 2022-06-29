@@ -1,0 +1,2 @@
+let peremennaya;
+peremennaya = "Privet";
